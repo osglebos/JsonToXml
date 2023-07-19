@@ -1,0 +1,37 @@
+{
+    "students":
+    [
+        {
+            "student":
+            {
+                "fullname" : "",
+                "age" : "",
+                "group" : "",
+                "achievments":
+                [
+                    {
+                        "achievment":
+                        {
+                            "name" : "",
+                            "year" : ""
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "",
+                            "year" : ""
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "",
+                            "year" : ""
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

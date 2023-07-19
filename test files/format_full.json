@@ -1,0 +1,101 @@
+{
+    "students":
+    [
+        {
+            "student":
+            {
+                "fullname" : "Richard Pyatnitskiy",
+                "age" : "15",
+                "group" : "1351",
+                "achievments":
+                [
+                    {
+                        "achievment":
+                        {
+                            "name" : "pobeda v akterskom masterstve",
+                            "year" : "2018"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "kupil horoshiy mikrofon",
+                            "year" : "2018"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "viygral v konkurse talantov s peniem",
+                            "year" : "2019"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "student":
+            {
+                "fullname" : "Darya Fedorova",
+                "age" : "17",
+                "group" : "5937",
+                "achievments":
+                [
+                    {
+                        "achievment":
+                        {
+                            "name" : "Vipustilas iz shkoli isskustv",
+                            "year" : "2017"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "Vistupila na festivale isskustv v Moskve",
+                            "year" : "2018"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "Postupila v vedushiy vuz Polshi",
+                            "year" : "2019"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "student":
+            {
+                "fullname" : "Irina Vasilieva",
+                "age" : "21",
+                "group" : "5131",
+                "achievments":
+                [
+                    {
+                        "achievment":
+                        {
+                            "name" : "Otuchilas v kolledge na Shveyu",
+                            "year" : "2013"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "Postupila v vuz na zhelaemoe napravlenie",
+                            "year" : "2014"
+                        }
+                    },
+                    {
+                        "achievment":
+                        {
+                            "name" : "Stala optikom",
+                            "year" : "2019"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
